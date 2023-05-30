@@ -1,5 +1,5 @@
 
-<h2>Estudando 📚:</h2>
+<h2 style="display:inline">Estudando 📚:</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="img html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="img css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
