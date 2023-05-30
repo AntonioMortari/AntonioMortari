@@ -1,27 +1,20 @@
 
-<h2 style="display:inline">Estudando 📚:</h2>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6a9cf0&height=150&section=header&text=Antonio+Mortari&fontSize=30&fontColor=fff&fontAlignY=35&animation=twinkling">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello;Be+Welcome++:%29)](https://git.io/typing-svg)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AntonioMortari&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Antonio Mortari github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioMortari&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"
+</div>
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="img html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="img css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="img js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="img git" height="30" width="30" src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png">
 </div>
-<br>
+  <br>
 
-
-  <div style="display:inline-block">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AntonioMortari&show_icons=true&theme=tokyonight" alt=" " height="200">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioMortari&langs_count=5&theme=tokyonight&layout=donut" alt=" " height="200">
-  </div>
-
-
-
-
-
-<!--   <img src="https://github.com/AntonioMortari/github-readme-stats"> -->
-
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioMortari&show_icons=true&theme=tokyonight)](https://github.com/AntonioMortari/github-readme-stats)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioMortari&langs_count=5)](https://github.com/anuraghazra/github-readme-stats) -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6a9cf0&height=150&section=header">
