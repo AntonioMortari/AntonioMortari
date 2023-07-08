@@ -46,6 +46,6 @@
    : antoniomortari09@gmail.com
 </div>
 
-  ![Snake animation](https://github.com/AntonioMortari/AntonioMortari/blob/output/github-contribution-grid-snake.svg)
+  
 
 
