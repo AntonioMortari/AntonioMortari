@@ -50,10 +50,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6a9cf0&height=150&section=header">
 
-<div style="display: inline_block" >
-  <img align="center" alt="java" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-   : antoniomortari09@gmail.com
-</div>
+
 
   
 
