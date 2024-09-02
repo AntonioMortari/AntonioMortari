@@ -7,6 +7,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AntonioMortari&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&locale=pt-br" alt="Antonio Mortari github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioMortari&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&locale=pt-br"
 </div>
+  <img align="right" height="150" src="https://cdna.artstation.com/p/assets/images/images/039/149/542/original/klabautermann-hollow.gif?1625073508"  />
 
 
 <div style="display: inline_block">
