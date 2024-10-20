@@ -1,4 +1,52 @@
+<main font-family="lato">
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:6B0DF5,100:38BAD6&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=38BAD6&size=35&center=true&vCenter=true&width=1000&lines=HELLO!!;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<br>
+<br>
+
+<div align="center" font-family="lato">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AntonioMortari&show_icons=true&count_private=true&hide_border=true&title_color=38BAD6&icon_color=6B0DF5&text_color=c9d1d9&bg_color=0d1117" alt="Antonio Mortari github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioMortari&layout=compact&hide_border=true&title_color=38BAD6&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+
+<br>
+<br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AntonioMortari&bg_color=0d1117&color=c9d1d9&area_color=6B0DF5&line=38BAD6&point=6B0DF5&area=true&hide_border=true)](https://github.com/fabiomcsantos/github-readme-activity-graph) 
+
+<br>
+<br>
+
+<div align="center" font-family="lato">
+
+![Html](https://img.shields.io/badge/-html5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Css](https://img.shields.io/badge/-css3-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117&textColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-react.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Angular](https://img.shields.io/badge/-angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Typescript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Nestjs](https://img.shields.io/badge/-nestjs-0D1117?style=for-the-badge&logo=nestjs&labelColor=0D1117&textColor=0D1117)&nbsp;
+</div>
+
+
+<br>
+<br>
+
+<div align="center" font-family="lato">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{AntonioMortari}/count.svg" /></p> 
+  <img align="right" height="150" src="https://cdna.artstation.com/p/assets/images/images/039/149/542/original/klabautermann-hollow.gif?1625073508"  />
+  
+<br></div>
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:38BAD6,100:6B0DF5&height=120&section=footer"/>
+
+</main>
+<!--
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6a9cf0&height=150&section=header&text=Antonio+Mortari&fontSize=30&fontColor=fff&fontAlignY=35&animation=twinkling">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello;Be+Welcome++:%29)](https://git.io/typing-svg)
@@ -26,6 +74,7 @@
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   
 </div><br/>
+-->
 
 <!-- ## Tenho interesse em:
 
@@ -43,11 +92,6 @@
 
   
 </div><br/> -->
-
-
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6a9cf0&height=150&section=header">
 
 
 
