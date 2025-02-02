@@ -8,14 +8,14 @@
 <br>
 
 <div align="center" font-family="lato">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AntonioMortari&show_icons=true&count_private=true&hide_border=true&title_color=38BAD6&icon_color=6B0DF5&text_color=c9d1d9&bg_color=0d1117" alt="Antonio Mortari github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats-two-sepia-64.vercel.app/api?username=AntonioMortari&show_icons=true&count_private=true&hide_border=true&title_color=38BAD6&icon_color=6B0DF5&text_color=c9d1d9&bg_color=0d1117" alt="Antonio Mortari github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioMortari&layout=compact&hide_border=true&title_color=38BAD6&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <br>
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AntonioMortari&bg_color=0d1117&color=c9d1d9&area_color=6B0DF5&line=38BAD6&point=6B0DF5&area=true&hide_border=true)](https://github.com/fabiomcsantos/github-readme-activity-graph) 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AntonioMortari&bg_color=0d1117&color=c9d1d9&area_color=6B0DF5&line=38BAD6&point=6B0DF5&area=true&hide_border=true)](https://github.com/antoniomortari/github-readme-activity-graph) 
 
 <br>
 <br>
