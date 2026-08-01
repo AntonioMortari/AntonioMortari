@@ -9,13 +9,18 @@
 
 <div align="center" font-family="lato">  
   <img width="49%" height="195px" src="https://github-readme-stats-two-sepia-64.vercel.app/api?username=AntonioMortari&show_icons=true&count_private=true&hide_border=true&title_color=38BAD6&icon_color=6B0DF5&text_color=c9d1d9&bg_color=0d1117" alt="Antonio Mortari github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioMortari&layout=compact&hide_border=true&title_color=38BAD6&text_color=c9d1d9&bg_color=0d1117" />
+
 </div>
+
+
+
+
 
 <br>
 <br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AntonioMortari&bg_color=0d1117&color=c9d1d9&area_color=6B0DF5&line=38BAD6&point=6B0DF5&area=true&hide_border=true)](https://github.com/antoniomortari/github-readme-activity-graph) 
+
 
 <br>
 <br>
@@ -37,9 +42,10 @@
 <br>
 
 <div align="center" font-family="lato">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{AntonioMortari}/count.svg" /></p> 
-  <img align="right" height="150" src="https://cdna.artstation.com/p/assets/images/images/039/149/542/original/klabautermann-hollow.gif?1625073508"  />
+<br>
+ 
+  <img data-importer="snake" src="https://raw.githubusercontent.com/antoniomortari/antoniomortari/snake-output/snake.svg" alt="Snake animation" />
+
   
 <br></div>
   
