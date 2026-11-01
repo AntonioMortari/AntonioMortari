@@ -1,106 +1,70 @@
-<main font-family="lato">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6B0DF5,100:38BAD6&height=160&section=header&text=Antonio%20Mortari&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Back-end%20Developer%20%40%20MB%20Labs&descAlignY=58&animation=twinkling"/>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:6B0DF5,100:38BAD6&height=120&section=header"/>
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=38BAD6&size=35&center=true&vCenter=true&width=1000&lines=HELLO!!;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Lato&weight=600&size=30&duration=3000&pause=800&color=38BAD6&center=true&vCenter=true&width=700&lines=Ol%C3%A1!+Seja+bem-vindo+%3A%29;Back-end+Developer+%40+MB+Labs;Estudante+de+ADS+na+Fatec+Campinas;Sempre+aprendendo+algo+novo+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<br>
-<br>
-
-<div align="center" font-family="lato">  
-  <img width="49%" height="195px" src="https://github-readme-stats-two-sepia-64.vercel.app/api?username=AntonioMortari&show_icons=true&count_private=true&hide_border=true&title_color=38BAD6&icon_color=6B0DF5&text_color=c9d1d9&bg_color=0d1117" alt="Antonio Mortari github stats" /> 
+<img src="https://komarev.com/ghpvc/?username=AntonioMortari&label=Visitas+no+perfil&color=6B0DF5&style=for-the-badge" alt="Contador de visitas" />
+<a href="https://github.com/AntonioMortari?tab=followers"><img src="https://img.shields.io/github/followers/AntonioMortari?label=Seguidores&style=for-the-badge&color=38BAD6&labelColor=0D1117" alt="Seguidores" /></a>
 
 </div>
 
-
-
-
-
-<br>
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AntonioMortari&bg_color=0d1117&color=c9d1d9&area_color=6B0DF5&line=38BAD6&point=6B0DF5&area=true&hide_border=true)](https://github.com/antoniomortari/github-readme-activity-graph) 
+## 👨‍💻 Sobre mim
 
+- 💼 Desenvolvedor **Back-end** na **MB Labs**
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **Fatec Campinas**
 
 <br>
-<br>
 
-<div align="center" font-family="lato">
+## 🛠️ Tecnologias
 
-![Html](https://img.shields.io/badge/-html5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Css](https://img.shields.io/badge/-css3-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117&textColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-react.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Angular](https://img.shields.io/badge/-angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Nestjs](https://img.shields.io/badge/-nestjs-0D1117?style=for-the-badge&logo=nestjs&labelColor=0D1117&textColor=0D1117)&nbsp;
+<div align="center">
+
+[![Tecnologias](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs,nestjs,mysql,git,github,vscode&perline=12)](https://skillicons.dev)
+
 </div>
 
-
-<br>
 <br>
 
-<div align="center" font-family="lato">
+## 📊 Estatísticas
+
+<div align="center">
+
+<img height="180" src="https://raw.githubusercontent.com/AntonioMortari/AntonioMortari/main/profile/stats.svg" alt="Estatísticas do GitHub de Antonio Mortari" />
+<img height="180" src="https://raw.githubusercontent.com/AntonioMortari/AntonioMortari/main/profile/top-langs.svg" alt="Linguagens mais usadas" />
+
 <br>
- 
-  <img data-importer="snake" src="https://raw.githubusercontent.com/antoniomortari/antoniomortari/snake-output/snake.svg" alt="Snake animation" />
 
-  
-<br></div>
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:38BAD6,100:6B0DF5&height=120&section=footer"/>
+<img width="98%" src="https://streak-stats.demolab.com/?user=AntonioMortari&theme=tokyonight&hide_border=true&background=0D1117&ring=6B0DF5&fire=38BAD6&currStreakLabel=38BAD6&locale=pt_BR" alt="Sequência de contribuições" />
 
-</main>
-<!--
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6a9cf0&height=150&section=header&text=Antonio+Mortari&fontSize=30&fontColor=fff&fontAlignY=35&animation=twinkling">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello;Be+Welcome++:%29)](https://git.io/typing-svg)
+<br><br>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AntonioMortari&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&locale=pt-br" alt="Antonio Mortari github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioMortari&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&locale=pt-br"
+<img width="98%" src="https://raw.githubusercontent.com/AntonioMortari/AntonioMortari/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Contribuições" />
+
+<img height="180" src="https://raw.githubusercontent.com/AntonioMortari/AntonioMortari/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Horário mais produtivo" />
+<img height="180" src="https://raw.githubusercontent.com/AntonioMortari/AntonioMortari/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Linguagens com mais commits" />
+
 </div>
-  <img align="right" height="150" src="https://cdna.artstation.com/p/assets/images/images/039/149/542/original/klabautermann-hollow.gif?1625073508"  />
 
+<br>
 
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+## 📫 Contato
 
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<div align="center">
 
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-   <img align="center" alt="sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<a href="mailto:antoniomortari09@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=38BAD6" /></a>
+<a href="https://github.com/AntonioMortari"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=38BAD6" /></a>
+<!-- Coloque o link do seu LinkedIn abaixo e descomente -->
+<!-- <a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BAD6" /></a> -->
 
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  
-</div><br/>
--->
+</div>
 
-<!-- ## Tenho interesse em:
+<br>
 
-<div style="display: inline_block">
-  <img align="center" alt="phyton" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/antoniomortari/antoniomortari/snake-output/snake.svg" alt="Animação da cobrinha" />
+</div>
 
-  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-
-   
-   <img align="center" alt="sql" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-   
-   <img align="center" alt="sql" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-   
-   <img align="center" alt="react-native" src="https://camo.githubusercontent.com/0b9bce580a369d91352cf37397f1e079ef104531fc0bc53a145deb8f43fca535/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163745f4e61746976652d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642" />
-
-  
-</div><br/> -->
-
-
-
-  
-
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BAD6,100:6B0DF5&height=120&section=footer"/>
