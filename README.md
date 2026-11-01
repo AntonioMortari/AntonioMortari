@@ -56,8 +56,7 @@
 
 <a href="mailto:antoniomortari09@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=38BAD6" /></a>
 <a href="https://github.com/AntonioMortari"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=38BAD6" /></a>
-<!-- Coloque o link do seu LinkedIn abaixo e descomente -->
-<!-- <a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BAD6" /></a> -->
+<a href="https://www.linkedin.com/in/antoniomortari/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BAD6" /></a>
 
 </div>
 
